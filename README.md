@@ -8,6 +8,6 @@ The purpose of this side project was to practice data visualization with Plotly,
 
 **coviddeath.csv** – This dataset contains real-world examples of a number of Covid-19 deaths and the reasons behind the deaths.
 
-<h4>Plotly visualizations are not available on Github, but you can view them here by entering the link to my repository in the search box :)</h4>
+<h4>Plotly visualizations are not available on Github, but you can view them here by entering the link to html-file in my repository :)</h4>
 
 [https://nbviewer.org/]
