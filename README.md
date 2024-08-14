@@ -1,4 +1,4 @@
-COVID-19 analysis and visualization using Plotly
+##COVID-19 analysis and visualization using Plotly##
 The purpose of this side project was to practice data visualization with Plotly, as I had not used this library in my data analytic studies at JAMK. I focused my visualization on disease situation in Finland and Europe in particular. I got the idea from a data project article on the Geeksforgeeks website. Three csv files were used in the project.
 
 covid.csv – This dataset contains Country/Region, Continent, Population, TotalCases, NewCases, TotalDeaths, NewDeaths, TotalRecovered, NewRecovered, ActiveCases, Serious, Critical, Tot Cases/1M pop, Deaths/1M pop, TotalTests, Tests/1M pop, WHO Region, iso_alpha.
